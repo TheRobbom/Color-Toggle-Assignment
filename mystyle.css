@@ -1,0 +1,28 @@
+#hamburgermenu {
+  height: 50px;
+  width: 45px;
+}
+
+.hidden {
+  display: none;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.grey {
+  background-color: grey;
+}
